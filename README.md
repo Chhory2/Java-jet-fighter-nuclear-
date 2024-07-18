@@ -3,5 +3,5 @@ Hello everybody welcome back to chhory 2. I have new game name: Java jet fighter
 # Install
 before install you should have python app in your phone or pc to open this file
 ```bash
-Game.py
+game.py
 ```
