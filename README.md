@@ -6,6 +6,5 @@ before install you should have python app in your phone or pc to open this file
 game.py
 ```
 # Link
-
-[Tiktok](https://www.tiktok.com/@unknowngraphicuserchhory?lang=km-KH)
+[My youtube channel](https://m.youtube.com/@chhory2)
 
