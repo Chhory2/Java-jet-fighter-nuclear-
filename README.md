@@ -6,5 +6,7 @@ before install you should have python app in your phone or pc to open this file
 game.py
 ```
 # Link
+For video check my YouTube channel:
+↓
 [My youtube channel](https://m.youtube.com/@chhory2)
 
